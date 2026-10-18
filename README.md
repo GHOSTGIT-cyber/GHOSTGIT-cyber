@@ -16,7 +16,7 @@ Depuis 2024, j'ajoute une couche **automatisation IA** : bots WhatsApp connecté
 
 <br>
 
-### 🧰 Stack
+### 01 · Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,tailwind&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Node.js, Express, Tailwind">
@@ -60,13 +60,15 @@ RGPD, OSINT
 
 <br>
 
-## 📌 Projets en vedette
+## 02 · Projets
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛥️ Lift Foils France
+**E-COMMERCE**
+
+### Lift Foils France
 
 <a href="https://liftfoils.fr"><img src="assets/lift-foils.jpg" alt="Capture du site liftfoils.fr" width="100%"></a>
 
@@ -81,7 +83,9 @@ RGPD, OSINT
 </td>
 <td width="50%" valign="top">
 
-### 🌊 eFoil Côte d'Azur
+**RÉSERVATION**
+
+### eFoil Côte d'Azur
 
 <a href="https://efoilcotedazur.fr"><img src="assets/efoil-cote-azur.jpg" alt="Capture du site efoilcotedazur.fr" width="100%"></a>
 
@@ -98,7 +102,9 @@ RGPD, OSINT
 <tr>
 <td width="50%" valign="top">
 
-### 📡 TrackShip
+**TEMPS RÉEL**
+
+### TrackShip
 
 **Le problème** — Repérer l'arrivée d'un navire sur une zone précise, sans rester à surveiller une carte toute la journée.
 
@@ -111,7 +117,9 @@ RGPD, OSINT
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Configurateur eFoil
+**AVANT-VENTE**
+
+### Configurateur eFoil
 
 **Le problème** — Un client qui doit choisir entre des dizaines de combinaisons board / aile / mât abandonne avant de demander un devis.
 
@@ -127,7 +135,7 @@ RGPD, OSINT
 
 <br>
 
-## 🎓 Formation & certifications
+## 03 · Formation & certifications
 
 | Diplôme / certification | Année |
 |---|:---:|
@@ -138,7 +146,7 @@ RGPD, OSINT
 
 <br>
 
-## 💼 Me contacter
+## 04 · Contact
 
 Je prends des missions en freelance : **création et refonte de sites**, **e-commerce**, **automatisation et agents IA**, **maintenance et infogérance**.
 
