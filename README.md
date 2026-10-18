@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Disponible_en_freelance-2DD4BF?style=for-the-badge&labelColor=0A0E13" alt="Disponible en freelance">
-  <img src="https://img.shields.io/badge/Palaiseau_·_91-0A0E13?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Palaiseau 91">
   <img src="https://img.shields.io/badge/Micro--entreprise_depuis_2020-0A0E13?style=for-the-badge&logo=briefcase&logoColor=A78BFA" alt="Micro-entreprise depuis 2020">
+  <a href="https://bakabi.fr"><img src="https://img.shields.io/badge/bakabi.fr-0A0E13?style=for-the-badge&logo=firefox&logoColor=38BDF8" alt="bakabi.fr"></a>
 </p>
 
 ---
@@ -143,12 +143,10 @@ RGPD, OSINT
 Je prends des missions en freelance : **création et refonte de sites**, **e-commerce**, **automatisation et agents IA**, **maintenance et infogérance**.
 
 <p align="center">
-  <a href="LIEN_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-0A0E13?style=for-the-badge&logo=firefox&logoColor=2DD4BF" alt="Portfolio"></a>
-  <a href="LIEN_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0E13?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
-  <a href="LIEN_MALT"><img src="https://img.shields.io/badge/Malt-0A0E13?style=for-the-badge&logo=malt&logoColor=A78BFA" alt="Malt"></a>
-  <a href="mailto:ADRESSE_MAIL"><img src="https://img.shields.io/badge/E--mail-0A0E13?style=for-the-badge&logo=maildotru&logoColor=F2F7FA" alt="E-mail"></a>
+  <a href="https://bakabi.fr"><img src="https://img.shields.io/badge/Portfolio_—_bakabi.fr-2DD4BF?style=for-the-badge&logo=firefox&logoColor=0A0E13&labelColor=0A0E13" alt="Portfolio bakabi.fr"></a>
+  <a href="mailto:bakabi06@gmail.com"><img src="https://img.shields.io/badge/bakabi06@gmail.com-0A0E13?style=for-the-badge&logo=gmail&logoColor=F2F7FA" alt="E-mail"></a>
 </p>
 
 <p align="center">
-  <sub>Basé à Palaiseau (91) · missions à distance partout en France</sub>
+  <sub>Missions à distance partout en France</sub>
 </p>

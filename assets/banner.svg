@@ -33,13 +33,36 @@
       <circle r="108" fill="none" stroke="#2DD4BF" stroke-opacity="0.16" stroke-width="1"/>
       <circle r="66" fill="none" stroke="#2DD4BF" stroke-opacity="0.2" stroke-width="1"/>
       <circle r="24" fill="none" stroke="#2DD4BF" stroke-opacity="0.26" stroke-width="1"/>
-      <path d="M0 0 L150 0 A150 150 0 0 0 62 -136 Z" fill="url(#sweep)"/>
       <line x1="-150" y1="0" x2="150" y2="0" stroke="#2DD4BF" stroke-opacity="0.12" stroke-width="1"/>
       <line x1="0" y1="-150" x2="0" y2="150" stroke="#2DD4BF" stroke-opacity="0.12" stroke-width="1"/>
-      <circle cx="78" cy="-54" r="4.5" fill="#2DD4BF"/>
-      <circle cx="78" cy="-54" r="11" fill="none" stroke="#2DD4BF" stroke-opacity="0.45" stroke-width="1"/>
-      <circle cx="-46" cy="64" r="3" fill="#38BDF8" fill-opacity="0.75"/>
-      <circle cx="116" cy="40" r="2.5" fill="#38BDF8" fill-opacity="0.5"/>
+
+      <!-- balayage radar : rotation continue -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate"
+                          from="0" to="360" dur="7s" repeatCount="indefinite"/>
+        <path d="M0 0 L150 0 A150 150 0 0 0 62 -136 Z" fill="url(#sweep)"/>
+        <line x1="0" y1="0" x2="150" y2="0" stroke="#5EEAD4" stroke-opacity="0.65" stroke-width="1.5"/>
+      </g>
+
+      <!-- contacts détectés : apparition synchronisée avec le passage du balayage -->
+      <g>
+        <circle cx="78" cy="-54" r="4.5" fill="#2DD4BF">
+          <animate attributeName="fill-opacity" values="1;1;0.15;1"
+                   keyTimes="0;0.12;0.75;1" dur="7s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="78" cy="-54" r="6" fill="none" stroke="#2DD4BF" stroke-width="1.2">
+          <animate attributeName="r" values="6;22" keyTimes="0;1" dur="7s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values="0.85;0" keyTimes="0;1" dur="7s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <circle cx="-46" cy="64" r="3" fill="#38BDF8">
+        <animate attributeName="fill-opacity" values="0.15;0.15;0.9;0.15"
+                 keyTimes="0;0.52;0.6;1" dur="7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="116" cy="40" r="2.5" fill="#38BDF8">
+        <animate attributeName="fill-opacity" values="0.12;0.12;0.75;0.12"
+                 keyTimes="0;0.82;0.89;1" dur="7s" repeatCount="indefinite"/>
+      </circle>
     </g>
 
     <!-- left accent bar -->
