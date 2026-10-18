@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Bakari Abidina — Ghost — Developpeur web freelance, automatisation IA, securite et infrastructure">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0E13"/>
+      <stop offset="55%" stop-color="#0D141C"/>
+      <stop offset="100%" stop-color="#101C24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A0E13" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0A0E13" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#2DD4BF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1280" height="340" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="340" fill="url(#bg)"/>
+    <rect width="1280" height="340" fill="url(#grid)"/>
+
+    <!-- radar motif, right side -->
+    <g transform="translate(1010 170)" opacity="0.9">
+      <circle r="150" fill="none" stroke="#2DD4BF" stroke-opacity="0.13" stroke-width="1"/>
+      <circle r="108" fill="none" stroke="#2DD4BF" stroke-opacity="0.16" stroke-width="1"/>
+      <circle r="66" fill="none" stroke="#2DD4BF" stroke-opacity="0.2" stroke-width="1"/>
+      <circle r="24" fill="none" stroke="#2DD4BF" stroke-opacity="0.26" stroke-width="1"/>
+      <path d="M0 0 L150 0 A150 150 0 0 0 62 -136 Z" fill="url(#sweep)"/>
+      <line x1="-150" y1="0" x2="150" y2="0" stroke="#2DD4BF" stroke-opacity="0.12" stroke-width="1"/>
+      <line x1="0" y1="-150" x2="0" y2="150" stroke="#2DD4BF" stroke-opacity="0.12" stroke-width="1"/>
+      <circle cx="78" cy="-54" r="4.5" fill="#2DD4BF"/>
+      <circle cx="78" cy="-54" r="11" fill="none" stroke="#2DD4BF" stroke-opacity="0.45" stroke-width="1"/>
+      <circle cx="-46" cy="64" r="3" fill="#38BDF8" fill-opacity="0.75"/>
+      <circle cx="116" cy="40" r="2.5" fill="#38BDF8" fill-opacity="0.5"/>
+    </g>
+
+    <!-- left accent bar -->
+    <rect x="72" y="92" width="4" height="156" rx="2" fill="url(#accent)"/>
+
+    <g font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+      <text x="104" y="116" fill="#64D8CB" font-size="15" font-weight="600" letter-spacing="4.5">BAKARI ABIDINA</text>
+      <text x="101" y="196" fill="#F2F7FA" font-size="76" font-weight="800" letter-spacing="-1.5">GHOST</text>
+      <text x="104" y="236" fill="#9FB3C8" font-size="19" font-weight="500">Développeur web freelance · Automatisation IA · Sécurité &amp; infra</text>
+
+      <g font-size="13" font-weight="600" letter-spacing="0.4">
+        <g transform="translate(104 262)">
+          <rect width="176" height="30" rx="15" fill="#2DD4BF" fill-opacity="0.1" stroke="#2DD4BF" stroke-opacity="0.35"/>
+          <text x="88" y="20" fill="#7FE3D6" text-anchor="middle">Micro-entreprise · 2020</text>
+        </g>
+        <g transform="translate(292 262)">
+          <rect width="150" height="30" rx="15" fill="#38BDF8" fill-opacity="0.1" stroke="#38BDF8" stroke-opacity="0.32"/>
+          <text x="75" y="20" fill="#8BD3F5" text-anchor="middle">BTS SIO · SLAM</text>
+        </g>
+        <g transform="translate(454 262)">
+          <rect width="196" height="30" rx="15" fill="#A78BFA" fill-opacity="0.1" stroke="#A78BFA" stroke-opacity="0.3"/>
+          <text x="98" y="20" fill="#C4B5FD" text-anchor="middle">SecNumAcadémie · RGPD</text>
+        </g>
+      </g>
+    </g>
+
+    <rect x="0" y="336" width="1280" height="4" fill="url(#accent)"/>
+  </g>
+</svg>
